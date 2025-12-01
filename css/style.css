@@ -1,0 +1,56 @@
+*{
+     font-family: "Kedebideri", sans-serif;
+}
+
+nav{
+    background-color: rgba(19, 58, 51, 0.747);
+
+}
+
+ul, .link{
+    color: beige;
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+
+header{
+    background-image: url(https://picsum.photos/1800);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.logo{
+    font-family: "Quantico", sans-serif;
+    color: yellow;
+}
+
+.hd{
+    text-align: center;
+}
+
+.immagine1{
+    width: 300px;
+    height: 200px;
+}
+
+.buttonArt{
+    background-color: rgba(19, 58, 51, 0.747);
+    color: beige;
+}
+
+.buttonArt:hover{
+    background-color: blue;
+    color: beige;
+}
+
+
+
+
+
+
+
+
